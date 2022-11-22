@@ -1,0 +1,11 @@
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\bin\Debug\SimpleMemo.exe.config
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\bin\Debug\SimpleMemo.exe
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\bin\Debug\SimpleMemo.pdb
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.csproj.AssemblyReference.cache
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.Memo.resources
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.Properties.Resources.resources
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.csproj.GenerateResource.cache
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.csproj.CoreCompileInputs.cache
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.exe
+C:\Users\mizuk\source\repos\SimpleMemo\SimpleMemo\obj\Debug\SimpleMemo.pdb
